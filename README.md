@@ -1,4 +1,4 @@
-[# 💫 About Me:
+💫 About Me:
 📱 React Native Developer focused on scalable, high-performance mobile apps<br>🤖 Exploring Full-Stack AI Development (AI/ML, Agentic AI, autonomous systems)<br>🚀 Interested in AI tools, SaaS products, and automation-first solutions<br>🤝 Open to collaborations on innovative AI & developer-focused products<br>💡 Currently learning how to build, deploy & scale intelligent systems end-to-end<br>💬 Ask me about React Native, APIs, AI integrations, or full-stack architecture<br>⚡ Built an autonomous AI workflow system that can code, generate content & manage tasks
 
 
